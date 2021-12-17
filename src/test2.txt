@@ -1,0 +1,1 @@
+(Quot (Prod (X) (Sum (Prod (Coef 3) (X)) (Coef 5))) (X))

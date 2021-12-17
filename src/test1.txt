@@ -1,0 +1,1 @@
+(Sum (Prod (X) (Coef 0)) (Prod (Coef 3) (X)))
